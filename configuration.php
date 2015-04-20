@@ -2,7 +2,7 @@
 Fichier de configuration du site.
 ---------------------------------
 
-Il faudra utiliser ces codes pour la création du site 
-Avec l'un des frameworks suivants : 
-CodeIgniter / Laravel ou Silex
+Utiliser les codes suivants pour la connexion à la base de données :
+
+Bien évidemment je ne vais pas vous les donner ;-)) 
 
